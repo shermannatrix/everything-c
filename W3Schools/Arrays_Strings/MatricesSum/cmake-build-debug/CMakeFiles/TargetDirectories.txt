@@ -1,0 +1,3 @@
+D:/Research_and_Development/everything-c/W3Schools/Arrays_Strings/MatricesSum/cmake-build-debug/CMakeFiles/MatricesSum.dir
+D:/Research_and_Development/everything-c/W3Schools/Arrays_Strings/MatricesSum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Research_and_Development/everything-c/W3Schools/Arrays_Strings/MatricesSum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
