@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Research_and_Development/everything-c/W3Schools/Arrays_Strings/CalcStdDev/main.c
+stdio.h
+-
+math.h
+-
+

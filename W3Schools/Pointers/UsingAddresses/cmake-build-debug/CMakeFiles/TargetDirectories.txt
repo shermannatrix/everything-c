@@ -1,0 +1,3 @@
+D:/Research_and_Development/everything-c/W3Schools/Pointers/UsingAddresses/cmake-build-debug/CMakeFiles/UsingAddresses.dir
+D:/Research_and_Development/everything-c/W3Schools/Pointers/UsingAddresses/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Research_and_Development/everything-c/W3Schools/Pointers/UsingAddresses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
