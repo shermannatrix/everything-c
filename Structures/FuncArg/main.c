@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+struct student {
+	char name[50];
+	int age;
+};
+
+void display(struct student s);
+
+int main () {
+	struct student s1;
+	
+	printf("Enter name: ");
+	scanf_s ("%[^\n]%*c", s1.name, (unsigned)__crt_countof (s1.name));
+	
+	printf("Enter age: ");
+	scanf_s ("%d", &s1.age);
+	
+	display(s1);
+	
+	return 0;
+}
+
+void display(struct student s) {
+	printf("\nDisplaying information\n");
+	printf("Name: %s", s.name);
+	printf("\nAge: %d", s.age);
+}
