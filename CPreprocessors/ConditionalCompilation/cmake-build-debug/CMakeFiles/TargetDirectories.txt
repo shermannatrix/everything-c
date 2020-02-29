@@ -1,0 +1,3 @@
+D:/Research_and_Development/everything-c/CPreprocessors/ConditionalCompilation/cmake-build-debug/CMakeFiles/ConditionalCompilation.dir
+D:/Research_and_Development/everything-c/CPreprocessors/ConditionalCompilation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Research_and_Development/everything-c/CPreprocessors/ConditionalCompilation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
