@@ -1,0 +1,3 @@
+D:/Research_and_Development/everything-c/StandardLib/stdio/RewindFilePos/cmake-build-debug/CMakeFiles/RewindFilePos.dir
+D:/Research_and_Development/everything-c/StandardLib/stdio/RewindFilePos/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Research_and_Development/everything-c/StandardLib/stdio/RewindFilePos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
